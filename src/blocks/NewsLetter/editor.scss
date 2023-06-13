@@ -1,0 +1,12 @@
+/**
+ * #.# Editor Styles
+ *
+ * CSS for just Backend enqueued after style.scss
+ * which makes it higher in priority.
+ */
+
+.wpvcb-block-newsletter__selection { text-align: center; }
+.wpvcb-block-newsletter .components-placeholder__instructions {
+    text-align: center;
+    width: 100%;
+}

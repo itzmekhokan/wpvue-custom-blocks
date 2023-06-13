@@ -1,0 +1,20 @@
+{
+  "name": "wpvue-custom-blocks",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "cgb-scripts start",
+    "build": "cgb-scripts build",
+    "eject": "cgb-scripts eject"
+  },
+  "dependencies": {
+    "@ckeditor/ckeditor5-build-classic": "^19.0.0",
+    "@ckeditor/ckeditor5-react": "^2.1.0",
+    "cgb-scripts": "1.23.0",
+    "react-color": "^2.19.3",
+    "react-color-picker-text": "^1.0.8",
+    "react-select": "^3.2.0"
+  },
+  "devDependencies": {
+    "@ckeditor/ckeditor5-alignment": "^23.1.0"
+  }
+}
